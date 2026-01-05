@@ -1,0 +1,1 @@
+Complete end-to-end test: Login to SauceDemo, Enter valid credentials standard_user and secret_sauce, Verify login success -, Add the first available product Sauce Labs Backpack to cart,Open the cart and verify the item is listed , Proceed to checkout 
